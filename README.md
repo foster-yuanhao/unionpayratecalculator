@@ -16,9 +16,8 @@ To use the UnionPay Rate Calculator, visit the following test website: [https://
 
 Upon accessing the website, you will be greeted with a straightforward interface where you can:
 
-1. Select the direction of conversion (MYR to CNY or CNY to MYR).
-2. Enter the amount you wish to convert.
-3. View the calculated exchange rate and the converted amount instantly.
+1. Enter the amount you wish to convert.
+2. View the converted amount instantly.
 
 ## Feedback and Support
 
