@@ -13,9 +13,9 @@ if ($hour >= 0 && $hour < 11) {
     $date = date("Ymd");
 }
 $today = $date;
-$url = "https://www.unionpayintl.com/upload/jfimg/"."$today".".json";
+$url = "地址";//替换为实际请求的地址
 // 设置 cURL 选项
-curl_setopt($curl, CURLOPT_URL,$url); //替换为实际的请求地址
+curl_setopt($curl, CURLOPT_URL,$url); 
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($curl, CURLOPT_HEADER, false);
 // 发送请求并获取响应
