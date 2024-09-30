@@ -12,7 +12,7 @@ Welcome to the UnionPay Rate Calculator for Malaysia. This tool is designed to p
 
 ## Usage
 
-To use the UnionPay Rate Calculator, visit the following test website: [https://mc.liyuanhao.com.cn/rate/](https://mc.liyuanhao.com.cn/rate/).
+To use the UnionPay Rate Calculator, visit the following test website: 
 
 Upon accessing the website, you will be greeted with a straightforward interface where you can:
 
